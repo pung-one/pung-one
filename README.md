@@ -1,18 +1,1 @@
-# WELCOME
-
-A new fish in the ocean of web-development with a fable for arts, politics and sci-fi.
-
-![coding fish](https://media0.giphy.com/media/VEhpX9lshFoFHNS563/giphy.gif?cid=ecf05e47q0fjcw00stf25gvaof8falmx57w9suq5d9mfab8p&rid=giphy.gif&ct=g)
-
-## Skills:
-- HTML
-- CSS
-- JavaScript
-- Adobe Indesign
-- Adobe Photoshop
-
-
----
-You are the visitor number: ![Visitor Count](https://profile-counter.glitch.me/PUNG-ONE/count.svg)
-
-**>>Coding to learn while learning to code<<**
+I'm an aspiring web developer who is passionate about accessibility and aesthetics. I believe that the web should be available to all users, regardless of their abilities, and I strive to create websites that are both beautiful and easy to use. I have experience working with the React framework and have recently been exploring the benefits of Next.js for building highly performant and SEO-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, as well as a deep understanding of accessibility best practices, I'm confident in my ability to create engaging and accessible user experiences for all.
