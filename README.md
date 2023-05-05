@@ -1,1 +1,16 @@
-I'm an aspiring web developer who is passionate about accessibility and aesthetics. I believe that the web should be available to all users, regardless of their abilities, and I strive to create websites that are both beautiful and easy to use. I have experience working with the React framework and have recently been exploring the benefits of Next.js for building highly performant and SEO-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, as well as a deep understanding of accessibility best practices, I'm confident in my ability to create engaging and accessible user experiences for all.
+## I am 
+A web developer with knowledge in front-end and back-end technologies, as well as an understanding of accessibility and best practices. Interested in logic and aesthetics.
+
+## Tech Stack:
+- React
+- Next.js
+- NextAuth
+- MongoDB
+- mongoose
+- Node.js
+- Styled Components
+- npm
+- React Testing Library
+
+## Recent project:
+- <a href="https://www.wada-sanzo-colors.com/" target="_blank">Wada Sanzo Colors</a>
