@@ -7,10 +7,12 @@ A web developer with knowledge in front-end and back-end technologies, as well a
 - NextAuth
 - MongoDB
 - mongoose
+- Strapi headless CMS
+- Cloudinary
 - Node.js
 - Styled Components
 - npm
 - React Testing Library
 
 ## Recent project:
-- <a href="https://www.wada-sanzo-colors.com/" target="_blank">Wada Sanzo Colors</a>
+- <a href="https://github.com/pung-one/josie-portfolio-frontend" target="_blank">Artist Portfolio</a> for Josie Overton.
