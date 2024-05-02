@@ -16,9 +16,11 @@ A Hamburg/Germany based web developer with knowledge in front-end and back-end t
 
 ## Recent projects:
 
+- <a href="https://lennartminkweber.com" target="_blank">Artist Portfolio</a> for **Lennart Mink Weber**
+
 - <a href="https://fsk-hh.vercel.app" target="_blank">Radio Website</a> for **Freies Sender Kombinat Hamburg**
   
-- <a href="https://josie-overton.de" target="_blank">Artist Portfolio</a> for Josie Overton
+- <a href="https://josie-overton.de" target="_blank">Artist Portfolio</a> **for Josie Overton**
   
 - <a href="https://rememberyaya.org" target="_blank">Website</a> for the **Initiative in Remembrance of Yaya Jabbi**
   
