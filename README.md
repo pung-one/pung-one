@@ -16,15 +16,17 @@ A Hamburg/Germany based web developer with knowledge in front-end and back-end t
 
 ## Recent projects:
 
-- <a href="https://lennartminkweber.com" target="_blank">Artist Portfolio</a> for **Lennart Mink Weber**
+- <a href="https://lennartminkweber.com](https://www.schlichtplusergreifend.de/" target="_blank">Website</a> for **schlicht+ergreifend fine dining**
+
+- <a href="https://www.lennartminkweber.com" target="_blank">Artist Portfolio</a> for **Lennart Mink Weber**
 
 - <a href="https://fsk-hh.vercel.app" target="_blank">Radio Website</a> for **Freies Sender Kombinat Hamburg**
   
-- <a href="https://josie-overton.de" target="_blank">Artist Portfolio</a> **for Josie Overton**
+- <a href="https://www.josie-overton.de" target="_blank">Artist Portfolio</a> **for Josie Overton**
   
 - <a href="https://rememberyaya.org" target="_blank">Website</a> for the **Initiative in Remembrance of Yaya Jabbi**
   
-- <a href="https://wada-sanzo-colors.com" target="_blank">Interactive Color Dictionary</a> as Graduation Project at **Neue Fische** coding school
+- <a href="https://www.wada-sanzo-colors.com" target="_blank">Interactive Color Dictionary</a> as Graduation Project at **Neue Fische** coding school
 
 ## Contact:
 
