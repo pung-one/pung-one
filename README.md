@@ -16,7 +16,7 @@ A Hamburg/Germany based web developer with knowledge in front-end and back-end t
 
 ## Recent projects:
 
-- <a href="https://lennartminkweber.com](https://www.schlichtplusergreifend.de/" target="_blank">Website</a> for **schlicht+ergreifend fine dining**
+- <a href="https://www.schlichtplusergreifend.de/" target="_blank">Website</a> for **schlicht+ergreifend fine dining**
 
 - <a href="https://www.lennartminkweber.com" target="_blank">Artist Portfolio</a> for **Lennart Mink Weber**
 
