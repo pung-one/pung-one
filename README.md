@@ -20,7 +20,7 @@ A Hamburg/Germany based web developer with knowledge in front-end and back-end t
 
 - <a href="https://www.lennartminkweber.com" target="_blank">Artist Portfolio</a> for **Lennart Mink Weber**
 
-- <a href="https://fsk-hh.vercel.app" target="_blank">Radio Website</a> for **Freies Sender Kombinat Hamburg**
+- <a href="https://newwebsite.fsk-hh.net/" target="_blank">Radio Website</a> for **Freies Sender Kombinat Hamburg**
   
 - <a href="https://www.josie-overton.de" target="_blank">Artist Portfolio</a> **for Josie Overton**
   
