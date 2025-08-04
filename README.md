@@ -3,6 +3,7 @@ A Hamburg/Germany based web developer with knowledge in front-end and back-end t
 
 ## Tech Stack:
 - React
+- React Native
 - Next.js
 - NextAuth
 - MongoDB
@@ -16,7 +17,7 @@ A Hamburg/Germany based web developer with knowledge in front-end and back-end t
 
 ## Recent projects:
 
-- <a href="https://www.schlichtplusergreifend.de/" target="_blank">Website</a> for **schlicht+ergreifend fine dining**
+- <a href="https://apps.apple.com/de/app/w-s-colors/id6749268443" target="_blank">iOS App</a> **W.S. Colors** including the <a href="https://www.wada-sanzo-colors.com" target="_blank">Interactive Color Dictionary</a> content + color scanner
 
 - <a href="https://www.lennartminkweber.com" target="_blank">Artist Portfolio</a> for **Lennart Mink Weber**
 
